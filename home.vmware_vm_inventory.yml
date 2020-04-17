@@ -1,4 +1,4 @@
 ---
 plugin: community.vmware.vmware_vm_inventory
-with_tags: True
+with_tags: False
 validate_certs: False
